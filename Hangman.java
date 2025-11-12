@@ -1,5 +1,4 @@
 //Project By Abhi And Suhani
-//Potpourri: Do while loop is locat ed on
 import java.util.Scanner; 
 import java.util.Random; 
 import java.io.FileReader;
